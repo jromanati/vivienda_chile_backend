@@ -1,9 +1,11 @@
-# Ignorar entornos virtuales
+# entornos virtuales
 env
 env/
 .venv
 .venv/
+path/to/venv
+path/to/venv/
 
-# Ignorar caches y artefactos
+# caches
 __pycache__
 *.pyc
